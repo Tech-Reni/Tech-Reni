@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tech-Reni/Tech-Reni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Abraham TireniOluwa
 
-Here are some ideas to get you started:
+### 💻 Backend Developer | 🦀 Rust Learner | 🔐 Future Cryptographer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Building products today. Studying security for tomorrow.*
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Student @ YabaTech
+
+⚙️ Building **Skutins**, **VENDORA**, and other cool projects
+
+🦀 Currently learning **Rust** & **Cryptography**
+
+🌱 Exploring **Security Engineering**, **Blockchain**, and **Distributed Systems**
+
+📍 Lagos, Nigeria
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+PHP • MySQL • Rust • JavaScript
+HTML • CSS • Git • GitHub
+```
+
+---
+
+## 🎯 Current Focus
+
+* 🔐 Cryptography
+* 🦀 Rust Programming
+* 🏗️ Backend Development
+* 🌍 Open Source
+* ⚡ Building Real Products
+
+---
+
+## 📌 Featured Projects
+
+🚀 **Skutins** — Student Social Platform
+
+🛒 **VENDORA** — Digital Marketplace
+
+🏠 **EstateBridge** — Property Technology Platform
+
+---
+
+## 📈 GitHub Journey
+
+```text
+Code. Learn. Build. Repeat.
+```
+
+---
+
+<div align="center">
+
+### ⭐ Every commit is a brick in the future I'm building.
+
+</div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Reni&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Reni" />
+</p>
