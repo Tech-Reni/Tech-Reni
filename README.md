@@ -4,17 +4,16 @@
 
 ### 💻 Backend Developer | 🦀 Rust Learner | 🔐 Future Cryptographer
 
-> *Building products today. Studying security for tomorrow.*
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student @ YabaTech
+🎓 Computer Science(ND) YabaTech
+🎓 Mathematics Student @ UNILAG
 
-⚙️ Building **Skutins**, **VENDORA**, and other cool projects
+⚙️ Building **Skutins**, **Text-Miner**, and other cool projects
 
 🦀 Currently learning **Rust** & **Cryptography**
 
@@ -47,7 +46,7 @@ HTML • CSS • Git • GitHub
 
 🚀 **Skutins** — Student Social Platform
 
-🛒 **VENDORA** — Digital Marketplace
+🛒 **Text-Miner** — Extracts Texts from Blogs and Articles
 
 🏠 **EstateBridge** — Property Technology Platform
 
