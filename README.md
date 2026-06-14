@@ -10,8 +10,9 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science(ND) YabaTech
 🎓 Mathematics Student @ UNILAG
+
+🎓 Computer Science(ND) YabaTech
 
 ⚙️ Building **Skutins**, **Text-Miner**, and other cool projects
 
