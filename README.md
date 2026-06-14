@@ -26,10 +26,13 @@
 
 ## 🛠️ Tech Stack
 
-```text
-PHP • MySQL • Rust • JavaScript
-HTML • CSS • Git • GitHub
-```
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -68,10 +71,8 @@ Code. Learn. Build. Repeat.
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Reni&show_icons=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Reni" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Tech-Reni&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Reni&layout=compact&theme=github_dark)
